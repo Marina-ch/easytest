@@ -1,0 +1,5 @@
+1¡¢How can you use the commands git log and git diff to view the history of files?
+git log:in git bash,print cd to your reporsitory,then print git log and press enter.
+git diff: git diff+first ID + second ID
+2¡¢Now that you have your workspace set up, what do you want to try using Git for?
+Python
